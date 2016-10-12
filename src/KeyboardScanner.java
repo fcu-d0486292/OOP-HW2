@@ -13,7 +13,6 @@ public class KeyboardScanner {
 		y=input.nextFloat();
 		System.out.printf("Enter a you name:");
 		z=input.next();
-		System.out.printf("Hi %s, the multiplication of %d and %f is %e. ",z,x,y,x*y);
-		input.close();
+		System.out.printf("Hi %s, the multiplication of %d and %f is %e. ",z,x,y,x*y );
 	}
 }

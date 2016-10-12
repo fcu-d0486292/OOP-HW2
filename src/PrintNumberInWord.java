@@ -35,7 +35,5 @@ public class PrintNumberInWord {
 			break;
 		default:System.out.println("The input integer is \"OTHER\".");
 		}
-		
-		input.close();
 	}
 }
